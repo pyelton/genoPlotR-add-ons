@@ -1,8 +1,8 @@
 #README for genoPlotR r package add-on functions
 
 ##Note:
-###All of these functions take dna_seg or lists of dna_seg objects as one of their arguments.
-###They also require the genoPlotR package to run
+####All of these functions take dna_seg or lists of dna_seg objects as one of their arguments.
+####They also require the genoPlotR package to run
 
 ##flip
 ###flip(dna_seg)
